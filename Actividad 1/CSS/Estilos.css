@@ -1,15 +1,15 @@
 
-/* Estilos generales */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000; /* Color de fondo llamativo */
+    background-color: #000000; 
     margin: 0;
     padding: 0;
     text-align: center;
     
 }
 
-/* Botones */
+
 .botones {
     position: absolute;
     top: 10px;
@@ -31,7 +31,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Contenido principal */
+
 h1, h2, h3 {
     color: #e4e2e2;
 }
@@ -43,13 +43,13 @@ p {
     color: #ffffff;
 }
 
-/* Video */
+
 iframe {
     margin-top: 20px;
     border-radius: 10px;
 }
 
-/* Footer */
+
 footer {
     margin-top: 30px;
     padding: 10px;
@@ -57,7 +57,7 @@ footer {
     color: white;
 }
 
-/* Estilos para el formulario */
+
 .Formulario {
     background: white;
     padding: 20px;
